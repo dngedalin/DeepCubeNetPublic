@@ -1,0 +1,7 @@
+model_path: model/
+model_name: DeepCubeNet_CSMUSI_model.h5py
+inputs_dir : inputs/
+outputs_dir : outputs/
+checkpoint_dir: D:/Projects/Thesis/final/saved_models/
+tensorboard_dir: D:/Projects/Thesis/final/tf_logs/
+CPU : False
